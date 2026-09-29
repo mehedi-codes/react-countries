@@ -6,7 +6,7 @@ function App() {
     <main className="bg-white text-black">
       <h2 className="text-4xl font-black pb-3">React Countries</h2>
       <Countries />
-    </>
+    </main>
   );
 }
 export default App;
