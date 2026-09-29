@@ -1,9 +1,1 @@
-<div align="center">
-
-# React World Tour
-
-## Tech Stack
-
-**HTML - CSS - Tailwind - Javascript - React - Vite - PostCss - JSX - NPM**
-
-</div>
+![react-countries](https://socialify.git.ci/mehedi-codes/react-countries/image?custom_description=A+React+application+displaying+country+cards+with+in-memory+visited+state+management.&description=1&font=KoHo&name=1&pattern=Solid&theme=Auto)
