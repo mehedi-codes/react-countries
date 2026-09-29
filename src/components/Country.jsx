@@ -1,7 +1,7 @@
 const Country = ({ country, handleVisited }) => {
   const { name, flags, population, independent, cca2, area, region } = country;
   return (
-    <div className="h-[416px] w-[280px] m-5 p-5 rounded-xl bg-gray-700 flex flex-col justify-center items-center">
+    <div className="h-[416px] w-[280px] m-5 p-5 rounded-xl bg-gray-200 flex flex-col justify-center items-center">
       <img
         className="p-5 rounded-xl h-48 max-w-96"
         src={flags?.svg}
