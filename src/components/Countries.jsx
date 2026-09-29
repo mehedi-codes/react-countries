@@ -49,7 +49,7 @@ const Countries = () => {
   }, []);
 
   return (
-    <section>
+    <section className="bg-white text-black">
       <p className="text-base font-bold text-opacity-20 text-purple-500 mb-3">
         Countries: {countries.length}
       </p>
