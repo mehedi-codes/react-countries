@@ -61,7 +61,7 @@ const Countries = () => {
             {visited.map((country, idx) => (
               <button
                 key={idx}
-                className="btn border-none bg-gray-700 min-h-0 h-10 rounded-xl"
+                className="btn border-none bg-gray-200 min-h-0 h-10 rounded-xl"
               >
                 {country?.flag} {country?.name?.common}
               </button>
